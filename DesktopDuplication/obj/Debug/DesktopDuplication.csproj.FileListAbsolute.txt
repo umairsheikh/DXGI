@@ -1,0 +1,10 @@
+C:\Users\Administrator\Downloads\desktop-duplication-net-master\desktop-duplication-net-master\DesktopDuplication\bin\Debug\DesktopDuplication.dll
+C:\Users\Administrator\Downloads\desktop-duplication-net-master\desktop-duplication-net-master\DesktopDuplication\bin\Debug\DesktopDuplication.pdb
+C:\Users\Administrator\Downloads\desktop-duplication-net-master\desktop-duplication-net-master\DesktopDuplication\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Administrator\Downloads\desktop-duplication-net-master\desktop-duplication-net-master\DesktopDuplication\bin\Debug\SharpDX.dll
+C:\Users\Administrator\Downloads\desktop-duplication-net-master\desktop-duplication-net-master\DesktopDuplication\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Administrator\Downloads\desktop-duplication-net-master\desktop-duplication-net-master\DesktopDuplication\bin\Debug\SharpDX.xml
+C:\Users\Administrator\Downloads\desktop-duplication-net-master\desktop-duplication-net-master\DesktopDuplication\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\Administrator\Downloads\desktop-duplication-net-master\desktop-duplication-net-master\DesktopDuplication\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Administrator\Downloads\desktop-duplication-net-master\desktop-duplication-net-master\DesktopDuplication\obj\Debug\DesktopDuplication.dll
+C:\Users\Administrator\Downloads\desktop-duplication-net-master\desktop-duplication-net-master\DesktopDuplication\obj\Debug\DesktopDuplication.pdb

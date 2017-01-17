@@ -1,0 +1,17 @@
+C:\Users\Administrator\Downloads\desktop-duplication-net-master\desktop-duplication-net-master\DesktopDuplication.Demo\bin\Debug\DesktopDuplication.Demo.exe.config
+C:\Users\Administrator\Downloads\desktop-duplication-net-master\desktop-duplication-net-master\DesktopDuplication.Demo\bin\Debug\DesktopDuplication.Demo.exe
+C:\Users\Administrator\Downloads\desktop-duplication-net-master\desktop-duplication-net-master\DesktopDuplication.Demo\bin\Debug\DesktopDuplication.Demo.pdb
+C:\Users\Administrator\Downloads\desktop-duplication-net-master\desktop-duplication-net-master\DesktopDuplication.Demo\bin\Debug\DesktopDuplication.dll
+C:\Users\Administrator\Downloads\desktop-duplication-net-master\desktop-duplication-net-master\DesktopDuplication.Demo\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Administrator\Downloads\desktop-duplication-net-master\desktop-duplication-net-master\DesktopDuplication.Demo\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Administrator\Downloads\desktop-duplication-net-master\desktop-duplication-net-master\DesktopDuplication.Demo\bin\Debug\SharpDX.dll
+C:\Users\Administrator\Downloads\desktop-duplication-net-master\desktop-duplication-net-master\DesktopDuplication.Demo\bin\Debug\DesktopDuplication.pdb
+C:\Users\Administrator\Downloads\desktop-duplication-net-master\desktop-duplication-net-master\DesktopDuplication.Demo\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\Administrator\Downloads\desktop-duplication-net-master\desktop-duplication-net-master\DesktopDuplication.Demo\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Administrator\Downloads\desktop-duplication-net-master\desktop-duplication-net-master\DesktopDuplication.Demo\bin\Debug\SharpDX.xml
+C:\Users\Administrator\Downloads\desktop-duplication-net-master\desktop-duplication-net-master\DesktopDuplication.Demo\obj\Debug\DesktopDuplication.Demo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\desktop-duplication-net-master\desktop-duplication-net-master\DesktopDuplication.Demo\obj\Debug\DesktopDuplication.Demo.FormDemo.resources
+C:\Users\Administrator\Downloads\desktop-duplication-net-master\desktop-duplication-net-master\DesktopDuplication.Demo\obj\Debug\DesktopDuplication.Demo.Properties.Resources.resources
+C:\Users\Administrator\Downloads\desktop-duplication-net-master\desktop-duplication-net-master\DesktopDuplication.Demo\obj\Debug\DesktopDuplication.Demo.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\desktop-duplication-net-master\desktop-duplication-net-master\DesktopDuplication.Demo\obj\Debug\DesktopDuplication.Demo.exe
+C:\Users\Administrator\Downloads\desktop-duplication-net-master\desktop-duplication-net-master\DesktopDuplication.Demo\obj\Debug\DesktopDuplication.Demo.pdb

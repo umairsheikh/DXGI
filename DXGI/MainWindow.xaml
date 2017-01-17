@@ -1,0 +1,25 @@
+﻿<Window 
+        x:Class="DXGI_DesktopDuplication.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        
+        Title="MainWindow" Height="411.954" Width="647.299">
+    <Grid Background="Gray">
+        <Image Name="BGImage" Margin="10,10,8,70"/>
+        <Label x:Name="ComputerID" Content="HOST-ComputerID:" HorizontalAlignment="Left" Margin="14,320,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="Password" Content="HOST-Password:" HorizontalAlignment="Left" Margin="14,351,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="LabelNovaId" Content=".." HorizontalAlignment="Left" Margin="131,320,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="LabelPassword" Content=".." HorizontalAlignment="Left" Margin="131,351,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="Status" Content="Status" HorizontalAlignment="Left" Margin="187,320,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label" Content="RemoteID:" HorizontalAlignment="Left" Margin="286,320,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1" Content="Password" HorizontalAlignment="Left" Margin="286,348,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="PWD" HorizontalAlignment="Left" Height="23" Margin="356,352,0,0" TextWrapping="Wrap" Text="..." VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="RID" HorizontalAlignment="Left" Height="23" Margin="356,324,0,0" TextWrapping="Wrap" Text="..." VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="ConnectRemote" IsEnabled="True" Content="Connect Remote" HorizontalAlignment="Left" Margin="489,326,0,0" VerticalAlignment="Top" Width="98" Click="ConnectRemote_Click"/>
+        <Button x:Name="startCapture" Content="HOST" HorizontalAlignment="Left" Margin="187,352,0,0" VerticalAlignment="Top" Width="75" Click="startCapture_Click"/>
+        <Label x:Name="remoteConnection" Content="Remote connection status" HorizontalAlignment="Left" Margin="481,352,0,0" VerticalAlignment="Top"/>
+
+
+
+    </Grid>
+</Window>

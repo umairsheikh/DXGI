@@ -1,0 +1,7 @@
+C:\Users\Administrator\Downloads\RemoteDesktop-master\RemoteDesktop-master\Model\bin\Release\Model.dll
+C:\Users\Administrator\Downloads\RemoteDesktop-master\RemoteDesktop-master\Model\bin\Release\Model.pdb
+C:\Users\Administrator\Downloads\RemoteDesktop-master\RemoteDesktop-master\Model\bin\Release\Lidgren.Network.dll
+C:\Users\Administrator\Downloads\RemoteDesktop-master\RemoteDesktop-master\Model\bin\Release\Nini.dll
+C:\Users\Administrator\Downloads\RemoteDesktop-master\RemoteDesktop-master\Model\bin\Release\Lidgren.Network.pdb
+C:\Users\Administrator\Downloads\RemoteDesktop-master\RemoteDesktop-master\Model\obj\Release\Model.dll
+C:\Users\Administrator\Downloads\RemoteDesktop-master\RemoteDesktop-master\Model\obj\Release\Model.pdb

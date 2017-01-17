@@ -1,0 +1,4 @@
+C:\Users\Administrator\Downloads\RemoteDesktop-master\RemoteDesktop-master\Controls\bin\Release\Controls.dll
+C:\Users\Administrator\Downloads\RemoteDesktop-master\RemoteDesktop-master\Controls\bin\Release\Controls.pdb
+C:\Users\Administrator\Downloads\RemoteDesktop-master\RemoteDesktop-master\Controls\obj\Release\Controls.dll
+C:\Users\Administrator\Downloads\RemoteDesktop-master\RemoteDesktop-master\Controls\obj\Release\Controls.pdb

@@ -1,0 +1,4 @@
+C:\Users\Administrator\Downloads\RemoteDesktop-master\RemoteDesktop-master\MirrorDriver\bin\Release\MirrorDriver.dll
+C:\Users\Administrator\Downloads\RemoteDesktop-master\RemoteDesktop-master\MirrorDriver\bin\Release\MirrorDriver.pdb
+C:\Users\Administrator\Downloads\RemoteDesktop-master\RemoteDesktop-master\MirrorDriver\obj\Release\MirrorDriver.dll
+C:\Users\Administrator\Downloads\RemoteDesktop-master\RemoteDesktop-master\MirrorDriver\obj\Release\MirrorDriver.pdb
